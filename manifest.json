@@ -1,0 +1,10 @@
+{
+  "Name": "ChestAutoSorter",
+  "Author": "JasperWang",
+  "Version": "1.0.0",
+  "Description": "Auto-sorts farm chest items by chest color or name keywords. Host-side only, benefits all players.",
+  "UniqueID": "JasperWang.ChestAutoSorter",
+  "EntryDll": "ChestAutoSorter.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
